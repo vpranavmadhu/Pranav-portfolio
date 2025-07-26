@@ -43,9 +43,16 @@ const Projects = () => {
                   <li>Uses MySQL for database and JWT for authentication</li>
                   <li>Responsive UI with modern design</li>
                 </ul>
-                <div className='flex flex-row justify-between items-center'>
-
-                  <a className='text-blue-400 hover:text-blue-300 transition-colors my-4 cursor-pointer'><AiOutlineEye /> Veiw Project</a>
+                <div className='flex justify-center pt-4 pb-2'>
+                  <a
+                    href='https://github.com/vpranavmadhu/ShopNestApp' 
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-blue-500 border border-blue-500 rounded-lg hover:bg-blue-500 hover:text-white transition-all'
+                  >
+                    <AiOutlineEye className='text-lg' />
+                    View on GitHub
+                  </a>
                 </div>
               </div>
 
@@ -57,9 +64,16 @@ const Projects = () => {
                   <li>REST APIs integrated with MySQL for persistent data</li>
                   <li>Responsive UI with filter/search functionality</li>
                 </ul>
-                <div className='flex flex-row justify-between items-center'>
-
-                  <a className='text-blue-400 hover:text-blue-300 transition-colors my-4 cursor-pointer'><AiOutlineEye /> Veiw Project</a>
+                <div className='flex justify-center pt-4 pb-2'>
+                  <a
+                    href='https://github.com/vpranavmadhu/JobHiringApp' 
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-blue-500 border border-blue-500 rounded-lg hover:bg-blue-500 hover:text-white transition-all'
+                  >
+                    <AiOutlineEye className='text-lg' />
+                    View on GitHub
+                  </a>
                 </div>
               </div>
 
@@ -71,9 +85,16 @@ const Projects = () => {
                   <li>Styled using Tailwind CSS for a responsive and modern UI.</li>
                   <li>Includes smooth navigation, project previews, and mobile support.</li>
                 </ul>
-                <div className='flex flex-row justify-between items-center'>
-
-                  <a className='text-blue-400 hover:text-blue-300 transition-colors my-4 cursor-pointer'><AiOutlineEye /> Veiw Project</a>
+                <div className='flex justify-center pt-4 pb-2'>
+                  <a
+                    href='https://github.com/vpranavmadhu/Pranav-portfolio'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-blue-500 border border-blue-500 rounded-lg hover:bg-blue-500 hover:text-white transition-all'
+                  >
+                    <AiOutlineEye className='text-lg' />
+                    View on GitHub
+                  </a>
                 </div>
               </div>
 
@@ -85,9 +106,17 @@ const Projects = () => {
                   <li>Food ordering system with cart functionality.</li>
                   <li>Integrated Razorpay Test API for payments.</li>
                 </ul>
-                <div className='flex flex-row justify-between items-center'>
 
-                  <a className='text-blue-400 hover:text-blue-300 transition-colors my-4 cursor-pointer'><AiOutlineEye /> Veiw Project</a>
+                <div className='flex justify-center pt-16 pb-2'>
+                  <a
+                    href='https://github.com/vpranavmadhu/MealMate-Django-'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-blue-500 border border-blue-500 rounded-lg hover:bg-blue-500 hover:text-white transition-all'
+                  >
+                    <AiOutlineEye className='text-lg' />
+                    View on GitHub
+                  </a>
                 </div>
               </div>
 
